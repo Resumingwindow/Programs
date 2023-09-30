@@ -1,0 +1,8 @@
+{
+    "sqltools.connections": [],
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\shubh\\Downloads\\mysql-connector-j-8.1.0\\mysql-connector-j-8.1.0\\mysql-connector-j-8.1.0.jar"
+    ],
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
